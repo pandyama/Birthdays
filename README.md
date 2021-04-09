@@ -1,9 +1,10 @@
 # Birthdays
 Android Kotlin Birthday app with SQLite 
 
-Live Features
+Features
 - Add and Delete Birthdays
 
+Coming to Play Store soon!!!
 
 Below is the look of the app
 
