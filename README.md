@@ -4,7 +4,7 @@ Android Kotlin Birthday app with SQLite
 Features
 - Add and Delete Birthdays
 
-Live on Play store below
+Live on Play store - 
 https://play.google.com/store/apps/details?id=com.mp.birthdays
 
 Below is the look of the app
